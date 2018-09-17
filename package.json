@@ -1,0 +1,26 @@
+{
+  "name": "finance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaz-ifthi/Finance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaz-ifthi/Finance/issues"
+  },
+  "homepage": "https://github.com/shaz-ifthi/Finance#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "express": "^4.16.3",
+    "sequelize": "^4.38.1"
+  }
+}
